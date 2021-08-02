@@ -22,3 +22,8 @@ A manager at Pewlett Hackard has tasked Bobby to use his SQL skills to determine
 
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+No. Using the following code in SQL it is determined that there are 1549 retiremnet ready employees who would be a good fit for the mentor program. A suggestion is to open the mentor program to people bord outside of 1965.
+
+            SELECT COUNT (emp_no)
+            FROM mentorship_eligibility;
