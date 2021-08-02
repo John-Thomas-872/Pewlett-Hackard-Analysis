@@ -6,7 +6,7 @@ A manager at Pewlett Hackard has tasked Bobby to use his SQL skills to determine
 
 ## Results - Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-      - A significant number of Pewlett Hackard employees are at or are nearing retirement age. According to the chart below, around 87,000 employees are near retirement. This chart lists the number of employees that hold each job title that are near retiement. 
+- A significant number of Pewlett Hackard employees are at or are nearing retirement age. According to the chart below, around 87,000 employees are near retirement. This chart lists the number of employees that hold each job title that are near retiement. 
       
      ![alt text](../Resources/retirement_titles.jpg) 
 
