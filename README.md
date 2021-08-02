@@ -8,7 +8,7 @@ A manager at Pewlett Hackard has tasked Bobby to use his SQL skills to determine
 
 - A significant number of Pewlett Hackard employees are at or are nearing retirement age. According to the chart below, around 87,000 employees are near retirement. This chart lists the number of employees that hold each job title that are near retiement. 
       
-     ![alt text](../Resources/retirement_titles.jpg) 
+     ![alt text](../Resources/retirement_titles.png) 
 
 ## Analysis - Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
