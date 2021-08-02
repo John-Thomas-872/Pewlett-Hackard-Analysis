@@ -17,5 +17,8 @@ A manager at Pewlett Hackard has tasked Bobby to use his SQL skills to determine
 - Based on the mentorship_eligibility.csv file, there aren't enough employess born in 1965 to fully run the mentorship program. There are roughly 1550 employees born in 1965 that are still employeed with the company. They will need to broaden the age range to fill the mentorship program. 
 
 ## Analysis - Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
